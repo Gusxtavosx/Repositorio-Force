@@ -17,3 +17,13 @@ O código completo, as instruções detalhadas (`LEIA-ME.txt`) e a licença MIT 
 ## Atualizações
 
 Para cada nova versão, publique um novo manifesto `module.json` e o ZIP correspondente em um release. O URL de instalação acima é estável e aponta para o release mais recente; o ZIP usa um endereço específico da versão.
+
+## Gemini Contatos
+
+Módulo separado para contatos, instrutores e retaguarda na ficha de Gemini Force, com catálogo para mestres e transferência dos cards entre fichas.
+
+**Manifesto de instalação do Gemini Contatos:**
+
+`https://raw.githubusercontent.com/Gusxtavosx/Repositorio-Force/main/gemini-contacts/module.json`
+
+O código, as instruções e o ZIP de instalação estão na pasta [`gemini-contacts`](gemini-contacts). O módulo Gemini TinyMCE acima é opcional e habilita o editor visual das descrições dos contatos.
