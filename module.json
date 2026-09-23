@@ -1,0 +1,27 @@
+{
+  "id": "gemini-tinymce",
+  "title": "Gemini TinyMCE",
+  "description": "Editor TinyMCE 6 para campos de texto do Foundry VTT v14.",
+  "version": "0.6.0",
+  "authors": [
+    {
+      "name": "Astofen"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "scripts": [
+    "vendor/tinymce/tinymce.min.js"
+  ],
+  "esmodules": [
+    "scripts/gemini-tinymce.js"
+  ],
+  "styles": [
+    "styles/gemini-tinymce.css"
+  ],
+  "url": "https://github.com/Gusxtavosx/Repositorio-Force",
+  "manifest": "https://github.com/Gusxtavosx/Repositorio-Force/releases/latest/download/module.json",
+  "download": "https://github.com/Gusxtavosx/Repositorio-Force/releases/download/v0.6.0/gemini-tinymce-v0.6.0.zip"
+}
