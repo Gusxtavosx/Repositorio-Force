@@ -14,6 +14,6 @@ O manifesto publicado aponta para o ZIP da mesma versão; versões novas podem s
 
 O código completo, as instruções detalhadas (`LEIA-ME.txt`) e a licença MIT do TinyMCE 6.8.3 (`vendor/tinymce/license.txt`) estão no arquivo `gemini-tinymce-codigo-github-v0.6.0.zip` deste repositório. O ZIP de instalação `gemini-tinymce-v0.6.0.zip` e o manifesto `module.json` ficam nos arquivos do release.
 
-## Publicação
+## Atualizações
 
-O workflow `.github/workflows/release.yml` cria os arquivos de instalação ao enviar uma tag igual a `v` seguida da versão do `module.json` (por exemplo, `v0.6.0`). O manifesto instalado usa um URL estável para verificar atualizações e um ZIP fixo por versão.
+Para cada nova versão, publique um novo manifesto `module.json` e o ZIP correspondente em um release. O URL de instalação acima é estável e aponta para o release mais recente; o ZIP usa um endereço específico da versão.
