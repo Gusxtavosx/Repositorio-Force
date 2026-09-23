@@ -26,4 +26,4 @@ Módulo separado para contatos, instrutores e retaguarda na ficha de Gemini Forc
 
 `https://raw.githubusercontent.com/Gusxtavosx/Repositorio-Force/main/gemini-contacts/module.json`
 
-O código, as instruções e o ZIP de instalação estão na pasta [`gemini-contacts`](gemini-contacts). O módulo Gemini TinyMCE acima é opcional e habilita o editor visual das descrições dos contatos.
+O código, as instruções e o ZIP de instalação estão na pasta [`gemini-contacts`](https://github.com/Gusxtavosx/Repositorio-Force/tree/main/gemini-contacts). O módulo Gemini TinyMCE acima é opcional e habilita o editor visual das descrições dos contatos.
