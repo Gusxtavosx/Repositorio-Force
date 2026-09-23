@@ -1,0 +1,13 @@
+{
+  "id": "gemini-master-screen",
+  "title": "Gemini Force · Escudo do Mestre",
+  "description": "Escudo do Mestre com regras, tabelas e calculadoras; jogadores podem consultar somente os Efeitos Especiais.",
+  "version": "0.4.0",
+  "url": "https://github.com/Gusxtavosx/Repositorio-Force/tree/main/gemini-master-screen",
+  "manifest": "https://raw.githubusercontent.com/Gusxtavosx/Repositorio-Force/main/gemini-master-screen/module.json",
+  "download": "https://raw.githubusercontent.com/Gusxtavosx/Repositorio-Force/main/gemini-master-screen/gemini-master-screen-v0.4.0.zip",
+  "authors": [{ "name": "Gemini Force" }],
+  "compatibility": { "minimum": "14", "verified": "14" },
+  "esmodules": ["scripts/gemini-shield.js"],
+  "styles": ["styles/screen.css"]
+}
