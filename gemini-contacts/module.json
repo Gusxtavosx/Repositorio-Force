@@ -1,0 +1,13 @@
+{
+  "id": "gemini-contacts",
+  "title": "Gemini Contatos",
+  "description": "Contatos, instrutores e retaguarda na aba Social dos personagens de Gemini Force.",
+  "version": "0.4.2",
+  "authors": [{ "name": "Astofen" }],
+  "compatibility": { "minimum": "14", "verified": "14" },
+  "esmodules": ["scripts/gemini-contacts.js"],
+  "styles": ["styles/gemini-contacts.css", "styles/gemini-hub.css"],
+  "url": "https://github.com/Gusxtavosx/Repositorio-Force/tree/main/gemini-contacts",
+  "manifest": "https://raw.githubusercontent.com/Gusxtavosx/Repositorio-Force/main/gemini-contacts/module.json",
+  "download": "https://raw.githubusercontent.com/Gusxtavosx/Repositorio-Force/main/gemini-contacts/gemini-contacts-v0.4.2.zip"
+}
